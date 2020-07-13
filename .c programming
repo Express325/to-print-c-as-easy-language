@@ -1,0 +1,7 @@
+#include<studio.h>
+int main()
+{
+printf("c is very language to learn");
+return 0;
+}
+
